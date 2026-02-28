@@ -6,7 +6,7 @@ import { SocialIcon } from "react-social-icons";
 function Footer() {
   return (
     <div className=" bg-[#202430]">
-      <div className=" md:w-[80%] mx-auto p-4 md:p-11 ">
+      <div className=" md:w-[80%] mx-auto p-4 md:py-11">
         <div className="flex flex-col md:flex-row justify-between gap-3">
           {/* logo here */}
           <div>
